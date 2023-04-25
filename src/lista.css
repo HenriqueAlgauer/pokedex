@@ -24,12 +24,14 @@
 }
 
 .listagem .pokemon img{
-    width: 25%;
+    margin-left: 20px;
+    width: 20%;
     border-radius: 50%;
 }
 
 .listagem .pokemon span{
     padding-right: 20px;
+    font-size: 15px;
 }
 
 .listagem .pokemon.ativo{
